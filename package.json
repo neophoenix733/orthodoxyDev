@@ -1,0 +1,25 @@
+{
+  "name": "orthodoxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neophoenix733/orthodoxyDev.git"
+  },
+  "author": "neophoenix733",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neophoenix733/orthodoxyDev/issues"
+  },
+  "homepage": "https://github.com/neophoenix733/orthodoxyDev#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "orthodoxy",
+  "keywords": [
+    "coptic",
+    "orthodox"
+  ]
+}

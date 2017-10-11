@@ -1,0 +1,105 @@
+Visitez notre site à
+http://www.matchfonts.com/fr
+Et téléchargez nos dernières nouveautés !
+_________________________________________
+
+
+                       DISTRIBUTEURS BIENVENUS
+
+Ce document est plaçé dans chaque pack libre-essai (shareware) de Match
+Software. Il décrit les quelques démarche requises pour distribuer ces
+derniers. Les packs libre-essai (shareware) de Match Software sont sa
+propriété intelelctuelle. Quoique ces fichiers soient proposés pour
+l'évaluation gratuite du public, nous retenons les droits patrimonaiux et
+droits de copies. La dérogations aux règles décrites plus bas n'est
+possible qu'avec l'autorisation expresse de Match Software. Toute
+infraction fera l'objet de poursuites.
+
+Match Software est membre de l'Association des Professionnels du
+Shareware (Association of Shareware Professionals,  "ASP"). Les membres
+distributeurs de l'ASP sont invités à distribuer les packs d'évaluation
+en libre-essai sans plus de formalités, à condition de respecter les 
+clauses 1 et 2. Les distributeurs non-membres de l'ASP doivent 
+impérativement se conformer à toutes les clauses ci dessous.
+
+1 - Les archives préparées par Match Software ne doivent être modifiées 
+en aucun cas avant distribution. Leur contenu ne doit être modifié en 
+aucun cas, que ce soit par addition, ou par suppression d'information. 
+Toutefois, pour des raisons pratique, les distributeurs sur disque 
+(disquette ou CD-ROM), peuvent distribuer le contenu non-compacté des 
+archives, à condition que les fichiers soient inclus dans un répertoire 
+(dossier) séparé.
+
+2 - Sous aucune circonstance, les packs d'évaluation libre-essai de Match 
+Software ne peuvent être inclus comme composant d'un quelconque logiciel, 
+sans l'autorisation expresse de Match Software.
+
+3 - Les membres distributeurs de l'ASP, peuvent immédiatement procéder à
+la distribution des packs d'évaluation libre-essai sur CD-ROM, ou
+disquette. Toutes distribution sur CD-ROM par des vendeurs non membres de
+l'ASP doit être autorisée par Match Software. L'autorisation peut être 
+obtenue facilement par courrier électronique email, ou par télécopie ou 
+courrier. Match Software se réserve le droit de refuser l'autorisqtion, 
+si le distributeur ou son représentant ne fournit pas les informations 
+demandées. Match Software requiert également un exemplaire du CD-Rom 
+publié, dès qu'il est disponible.
+
+4 - Les services en ligne,  BBS (micro-serveurs), sites Web ou FTP,  et 
+autres distributeurs électroniques sont libres de distribuer les packs 
+libre-essai de Match Software, à condition de respecter les clauses 1 et 
+2.
+
+5 - Les magasines qui distribuent les packs libre-essai de Match Software
+comme part de leurs efforts promotionnels bénéficient de notre propriété 
+intellectuelle. Ils doivent obtenir l'autorisation préalable de Match 
+Software. Par ailleurs, nous demandons l'élémentaire respect des règles 
+confraternelles entre publication, c'est-à-dire l'envoi d'un exemplaire 
+gratuit de la publication où notre logiciel a été utilisé dès qu'il est 
+publié, comme cela s'est toujours pratiqué dans le cas de publication 
+d'extraits d'articles. En tout état de cause, le fait qu'un logiciel soit 
+présenté sous forme électronique n'implique pas qu'une publication 
+honorable soit dégagée de ses responsabilités à l'égard de ses pairs 
+éditeurs. Il ne fait aucun doute que dans le cas inverse, si Match 
+Software prétendait utiliser tout ou partie d'un article dans l'un de ses 
+logiciels le magasine demanderait la même courtoisie.
+
+6 - Toujours distribuer la dernière version du pack libre-essai, qui est 
+disponible pour téléchargement à http://www.matchfonts.com/fr . Si vous 
+ne pouvez trouver un pack spécifique, contactez-nous, et nous vous 
+l'enverrons par retour.
+
+Ces règles sont simples et ne ressortent que de l'élémentaire bon sens.
+Match Software prépare ses exemplaires d'évaluation libre-essai avec 
+grand soin, et les met à jour régulièrement, pour que le public reçoive 
+le meilleur service possible.
+
+Le logiciel en libre-essai (shareware) est pour Match Software un moyen 
+rationnel et intelligent de diffuser ses produits. Dans ce processus, 
+beaucoup profitent de nos efforts : les distributeurs, qui sans les 
+auteurs de shareware perdraient probablement une part de leur chiffre 
+d'affaire, et les utilisateurs, qui profitent du logiciel et peuvent 
+l'évaluer à loisir sans devoir débourser d'avance. Nous sommes cependant 
+ouverts à toutes propositions de distribution publication, et autres 
+projets rentables. Le principal ingrédient du logiciel n'atant ni le 
+plastique, ni le papier, mais la créativité, nous sommes persuadés que 
+nos produist peuvent trouver en des mains entreprenantes une destinée
+profitable. N'hésitez pas à nous contacter, si vous pensez avoir une idée
+dans laquelle Match Software puisse jouer un rôle profitable pour les
+deux parties !
+
+Match Software.
+8205 Santa Monica Blvd.
+Suite 1-205
+West Hollywood, CA 90046-5912
+Etats Unis
+Téléphone 1+ 323-656-4244
+
+Match Software est membre de l'ASP, "Association of Shareware
+Professionals". Pour plus d'informations, voir :
+http://www.asp-shareware.org/
+
+________________________________________________________________________
+"Match Software", ou "Bujardet Frères", sont la propriété intellectuelle,
+et copyright de Match Software. Toutes autres propriétés intellectuelles 
+citées dans nos documentations, appartiennent à leurs détenteurs 
+respectifs.
