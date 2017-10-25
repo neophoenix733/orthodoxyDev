@@ -13,8 +13,13 @@
     <link href="fonts/novecento-font/novecento-font.css" rel="stylesheet" type="text/css">
     <link href="fonts/font-awesome.min.css" rel="stylesheet" type="text/css">
     <!-- Loading main css file -->
-    <link rel="stylesheet" type="text/css" href="style.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/audio.css">
+    
+
 </head>
+
+
 
 <body>
     <div class="site-content">
@@ -44,9 +49,20 @@
                 <h2 class="page-title">hymns and songs</h2>
             </div>
         </div>
-        
 
-        
+<div id="audioplayer" style="border: 1px solid black">
+  <button id="pButton" class="play" onclick="playAudio()"></button>
+    <div id="timeline">
+    <div id="playhead"></div>
+  </div>
+  <div id="volume_control">
+    <label id="rngVolume_label" for="rngVolume">Volume:</label>
+    <input type="range" onchange="setVolume(this.value)" id="rngVolume" min="0" max="1" step="0.01" value="1">
+  </div>
+</div>
+
+
+        <br />
 
 
         <footer class="site-footer">
@@ -98,6 +114,7 @@
     </div>
     <script src="js/jquery-1.11.1.min.js"></script>
     <script src="js/plugins.js"></script>
+    <!--<script src="js/audio.js"></script> -->
     <script src="js/app.js"></script>
 </body>
 
