@@ -1,0 +1,483 @@
+                             Q & R
+                   Questions Fréquemment Posées,
+                    et les réponses disponibles
+
+Ce document présente
+
+1 - La nature des logiciels en libre-essai (shareware, partagiciel)
+2 - Support technique
+3 - Garantie
+4 - Arbitrage en cas de problème, par l'Ombudsman de l'ASP
+5 - Questions techniques, leurs solutions, trucs et astuces
+
+1 - DÉFINITION DU LIBRE-ESSAI (PARTAGICIEL, SHAREWARE)
+
+La distribution d'exemplaires d'évaluation en libre-essai donne aux 
+utilisateurs l'occasion d'essayer un logiciel avant de l'acheter. Si vous
+essayez un logiciel libre-essai, et continuez à l'utiliser, vous avez
+l'obligation morale de vous enregistrer auprès de l'éditeur, et
+d'acquérir les droits de licence d'utilisation.  Chaque programme et
+éditeur différe sur les détails ; certains requièrent l'enregistrement
+après une période donnée, d'autres sont moins spécifiques.  Avec 
+l'enregistrement, on obtient quelquefois simplement le droit 
+d'utilisation, mais plus souvent une version complète "enregistrée" du 
+programme, et parfois, un manuel imprimé.
+
+Les lois sur la propriété intellectuelle et le droit de copie (le
+"copyright") s'appliquent de la même manière au logiciel en libre-essai
+et aux logiciel commercial, et le possesseur des droits retient
+complètement ses droits patrimoniaux, tout en concédant un droit de copie
+limité pour les exemplaires d'évaluation, comme cela est décrit plus bas.
+
+Les auteurs de logiciels en libre-essai sont des programmeurs ou artistes
+graphiques de qualité, qui n'ont rien à envier aux auteurs des logiciels 
+du commerce (dans les deux cas, on en trouve des bons et des mauvais !). 
+La principale différence réside dans la méthode de distribution. L'auteur 
+accorde spécifiquement le droit de copier et de distribuer un exemplaire 
+d'évaluation, soit à quiconque, soit à des groupes spécifiques. Par 
+exemple, certains auteurs ne permettent la mise sur CD-Rom qu'avec une 
+autorisation écrite de leur part. En général, les règles à suivre sont 
+indiquées dans un document nomém "VENDOR.DOC", qui accompagne 
+l'exemplaire d'évaluation.
+
+Le "libre-essai", ou "partagiciel", ou "shareware" est une méthode de
+distribution, pas un type de logiciel. Vous devriez être en mesure de
+trouver le logiciel qui correspond à vos besoins, et à vos finances, 
+qu'il s'agisse de programems du commerce, ou shareware. Le système du 
+libre-essai rend les choses plus faciles, car vous pouvez essayer avant 
+d'acheter. D'autre part, parce qu'un éditeur de libre-essai n'a pas les 
+énormes frais de promotion des éditeurs commerciaux, les prix sont 
+raisonnables. Enfin, vous bénéficiez de l'ultime garantie "satisfait ou 
+remboursé" : si vous n'utilisez pas le produit, vous ne l'avez pas payé.
+
+2 - SUPPORT TECHNIQUE
+
+Quoique nous fassions le maximum pour vous assurer un usage agréable de
+nos polices de caractères, n'oubliez pas qu'il s'agit de créations à la
+fois techniques, et artistiques. Nous fournissons avec joie le support
+technique. Mais les questions d'ordre esthétique et artistique ne peuvent
+être prises qu'à titre de suggestions, ce qui implique que les 
+corrections d'ordre esthétique ne peuvent être considérées comme part du 
+support technique. Nous apprécions cependant vivement vos points de vue 
+et suggestions.
+
+Avant de nous contacter, lisez attentivement la fin de ce document. Il a
+été rédigé à partir des questions les plus férquemment posées à notre
+support technique. Il est très possible que vous y trouviez la réponse à
+votre question, ce qui vous évitera pertes de temps et énervement.
+
+Pour des raisons pratiques et financières, il nous est impossible de
+pratiquer le support technique et dépannage par téléphone. Toutefois,
+vous pouvez nous communiquer vos problèmes au 1+ 213-656-4244. Nous
+répondrons en général sous 24 heures, par courrier électronique email, 
+ou par télécopie.
+
+Vous pouvez nous contacter à support@matchfonts.com. Essayez d'être le 
+plus précis possible, pour nous permettre de vous fournir l'aide 
+adéquate. Rappellez-nous le nom de la polices en question, sur quelle 
+plateforme vous l'utilisez (Windows, macintosh, OS/2), et la nature 
+exacte du problème. Vous recevrez en général une réponse sous 24 heures. 
+N'oubliez pas de préciser dans votre message votre numéro de télécopie, 
+et adresse email, pour que nous puissions vous répondre.
+
+Les défauts de programmation (bugs) seront réparés le plus rapidement
+possible. Cependant, étant donné le besoin de tests et vérifications, il
+est impossible de donner un délai précis. En général, notre expérience 
+montre un temps de réponse moyen de moins d'une semaine. Lorsque la mise 
+à jour est complète, les polices réparées seront envoyées au consommateur 
+ayant signalé le problème, par courrier électronique, ou par poste, si le 
+courrier électronique n'est pas disponible.
+
+3 - GARANTIE LIMITÉE
+
+L'utilisateur des polices plaçées sur ce disque ou service en ligne
+accepte les conditions suivantes : "Les polices sont fournies telles
+quelles. L'auteur décline toute garantie, expresse ou implicite,
+incluant, sans limitation, garanties de valeur marchande, et adéquation à
+une quelconque utilisation. L'auteur dégage toute responsabilité en cas 
+de dommages, directs ou indirects, résultant de l'usage de ces polices".
+
+Les polices fournies lors de l'enregistrement (versions enregistrées)
+font l'objet d'une concession exclusive, et ne doivent en aucun cas être
+redistribuées. Elles sont réservées à votre propre usage, ou à celui de
+l'entreprise qui en a fait l'acquisition.
+
+Si vous désirez faire partager votre enthousiasme pour nos polices de
+caractères, n'hésitez pas à distribuer les exemplaires d'évaluation en
+libre-essai, dont vous pouvez toujours trouver la version la plus récente 
+sur notre site, http://www.matchfonts.com/fr .
+
+Si pour quelque raison que ce soit la version enregistrée de la police ou
+programme vous avait été communiquée par Match Software sur un support
+défectueux (disque), il vous sera échangé gratuitement.
+
+Si vous avez des suggestions pour améliorer cette police/programme, nous
+apprécions vos commentaires. cela ne signifie pas que nous allons
+procéder aux modifications immédiatement, ou que nous nous engagions à y
+procéder. Toutefois, si les suggestions sont retenues, elles seront part 
+de la prochaine version.
+
+Nous déclinons toutes reponsabilités si pour quelque raison que ce soit
+nos polices de caractères ou programmes sont utilisés de manière non
+appropriée. Nos logiciels fonctionnent correctement dans les
+configurations habituelles, avec les imprimantes courantes, et les
+logiciels d'application les plus communs. Si, pour quelque raison que ce
+soit, ils ne fonctionnaient pas dans une configuration spécifique, Match 
+Software ne saurait en être tenu responsable. Les combinaisons techniques 
+sont infinies, et parce que les systèmes évoluent de manière 
+imprévisible, il peut arriver qu'un nouveau système, ou une configuration 
+particulière, ne fonctionne pas avec l'unde nos polices. Par exemple, 
+parce que le nouveau système (nouvelle version du logiciel d'application 
+ou du système d'exploitation) réclame un nouveau format de polices. Nous 
+tentons de tenir compte de toutes les nouvelles versions, et offrirons 
+des mises à jour si possible. Mais en aucun cas cela ne constitue une 
+obligation. Cela e serait pas plus le cas si vous faisiez l'acquisition 
+de housses pour les sièges de votre voiture, et exigiez qu'elles
+s'adaptent à tout nouveau modèles que vous achetiez par la suite.
+
+4 - ASP OMBUDSMAN
+
+Ce programme est produit par un membre de l'Association des
+Professionnels du Shareware (Association of Shareware Professionals,
+"ASP"). L'ASP veut s'assurer que le principe du libre-essai vous 
+satisfasse. Si vous n'arrivez pas à resoudre un problème lié au principe 
+du libre-essai directement avec un membre de l'ASP, l'association peut 
+peut-être vous aider. Par son arbitrage, l'Ombudsman de l'ASP peut aider 
+à résoudre le conflit ou le problème avec un membre de l'ASP, mais ne 
+fournit pas de support technique pour les produits des membres.
+
+Contactez
+     ASP Ombudsman
+     545 Grover Road,
+     Muskegon, MI 49442-9427
+     ÉTATS-UNIS
+     Télécopie 1+ 616-788-2765
+    ou envoyez un message à l'Ombudsman de l'ASP
+     - via CompuServe mail 70007,3536
+     - email 70007.3536@compuserve.com
+
+5 - QUESTIONS TECHNIQUES/SOLUTIONS/TRUCS & ASTUCES
+
+Voici quelques questions fréquemment posées à propos de nos polices de
+caractères, et les réponses, et solutions, que nous avons pu trouver.
+Même si vous n'avez aucun problème avec cette police, c'est une bonne
+idée que de lire ce document. En fait, nous avons découvert quelques
+solutions originales, qui peuvent vous aider à tirer meilleur parti
+d'autres polices. Cette liste sera régulièrement mise à jour, à partir de
+vos questions, pour aider nos clients à mieux profiter de nos produits. 
+Nous avons plaçé ici des questions relatives à Windows, mais aussi 
+Macintosh et OS/2. Après lecture, si vous avez encore des question, 
+contactez-nous. Nous ferons de notre mieux pour vous aider. Merci pour 
+toutes vos suggestions et questions.
+
+Q : Comment installer les polices TrueType sous Windows ?
+R : Ouvrez le panneau de contrôle "Polices" (Fontes). Dans Windows 3.1
+cliquer sur "Ajouter" . Dans Windows 95, activer "Ajouter une police",
+dans le menu "Fichier" du répertoire des polices (fontes). Ensuite,
+utilisez le sélecteur de fichiers pour aller dans le répertoire où sont
+les polices. Sélectionner celles que vous voulez installer, et cliquer
+OK.
+
+Q : Je ne trouve pas les fichiers *.FOT pour installer les polices TTF
+sous Windows.
+R : Ce type de fichier n'est plus utilisé par Windows 95. Sous Windows
+3.1, il est automatiquement généré par le système, lorsque vous installez
+une police selon la procédure recommandée par Microsoft, décrite plus
+haut.
+
+Q : Comment installer les polices ATM Type 1 PostScript sous Windows ?
+R : Les polices ATM sont chacune composées de trois fichiers, avec les
+exetnsions *.PFM, *.PFB, et *.AFM. à l'état normal, Windows ne sait pas
+utiliser ces polices. Pour l'en rendre capable, vous devez installe 
+l'utilitaire Adobe Type Manager (ATM), que vous pouvez acquérir chez les 
+bons revendeurs de logiciels , ou directement sur le site adobe, 
+http://www.adobe.com .  Les polices ATM sont recommandées pour les 
+travaux de PAO et de flashage, car elles offrent en général une meilleure 
+résolution, et sont moins sensibles aux problèmes habituellement 
+rencontrés avec certaines polices TrueType, notamment complexes. Dans la 
+version Deluxe, ATM vous permet aussi de gérer vos polices Type 1 et 
+TrueTYpe bien plus rationnellement qu'avec le panneau de contrôle 
+habituel, et d'avoir un meilleur rendu à l'écran. ATM est fourni avec un 
+manuel complet, qui décrit en détail les procédures d'installation.
+
+Q : Comment installer mes polices Macintosh ?
+R : Sous sytème 7 et suivant, simplement glisser-déposer les polices sur
+le Dossier Système. Macintosh vous demandera l'autorisation de placer les
+fichiers dans les dossiers voulus. Cliquez OK. C'est tout. Attention : ne
+pas glisser le dossier contenant les polices, mais les polices
+elles-mêmes. Les polices TrueType ressemblent à des petites valises, et
+portent des noms finissant par ".suit". Les polices PostScript sont
+composées de deux fichiers : une police matricielle "écran", dont le nom
+finit par ."bmap", et une police "laser", qui ressemble à une petite
+imprimante. Les deux doivent être installées.  Sous Système 6.xx, vous
+devez utiliser "Font/DA Mover". Cet utilitaire est disponible sur le 
+disque-système, ou sur les meilleurs services Mac en ligne. Référez-vous 
+au manuel de votre système, ou au manuel de cet utilitaire, pour plus de 
+détails.
+
+Q : J'ai installé une police PostScript, en plaçant la valise dans le
+système, mais elles apparaissent pleines "d'escaliers", les obliques et
+courbes ne sont pas droites, mais "barbelées".
+R : Vous n'avez installé que la moitié de la police. Les polices
+PostScript sont composées de deux fichiers : une police matricielle
+"écran", dont le nom finit par ."bmap", et une police "laser", qui
+ressemble à une petite imprimante, dont le nom est une abréviation du nom
+de la police. Par exemple "Hallo" pour la police "Halloween". Les deux
+doivent être installées. Glissez-déposez la police laser dans le dossier
+système.
+
+Q : Comment installer les polices PostScript ATM Type 1 sous OS/2 ?
+R : Les fontes Type 1 doivent comporter au minimum les fichiers *.PFB et
+*.AFM. La palette de fontes convertit le fichiers *.AFM en *.OFM
+lorsqu'elle installe la police.  Vous devez conserver les deux fichiers
+dans le même répertoire (dossier), pour que l'installation se fasse
+convenablement.
+1 - Ouvrir Système OS/2 (OS/2 System)
+2 - Ouvrir Réglages Système (System Setup)
+3 - Ouvrir la Palette de fontes (Font Palette)
+4 - Sélectionner "Ajoute (Add)
+5 - Suivre les instructions, sur la fenêtre "Ajouter Fonte" (Add Font),
+puis cliquer sur "Ajoute" (Add).
+Sélectionner les noms des fichiers de polices que vous voulez installer
+dans votre système.
+
+Q : Pourquoi placer dans de documentation dans vos archives, elles
+deviennent énormes et coûtent une fortune à télécharger.
+R : Désolé, mais la fonte que vous avez à présent à votre disposition est
+founrie GRATUITEMENT par Match Software pour votre libre-essai. Nous ne 
+sommes pas responsables pour les frais de téléphone, ou si votre 
+fournisseur facture au temps passé. Lorsque nous fournissons gratuitement 
+le résultat de nos efforts, c'est en espérant que vous trouverez la 
+qualité de nos produits suffisante pour commander. Et, entre autres, 
+c'est la qualité de la documentation d'accompagnement, qui fait la 
+différence entre une police freeware sans documentation,  auteur ou 
+garantie, et un produit de qualité, garanti, et venant d'une maison 
+respectable. Notamment ces questions/réponses. Si vous appréciez 
+l'opportunité d'essayer des partagiciels sans payer, vous devez 
+comprendre que sans aucune vente, nous ne serions pas en mesure pendant 
+bien longtemps de sortir de nouveaux produits. En encourageant les 
+auteurs de partagiciels par vos commandes, vous assurez aussi la sortie 
+régulière de nouveautés, qu'autre ent, vous devriez payer d'avance, chez 
+les éditeurs traditionnels. En tout état de cause, merci à ceux qui 
+supportent le principe du shareware (partagiciel).
+
+Q : Une police TrueType ne s'affiche pas correctement à toutes les
+tailles. Quelquefois, elles est remplaçée par Geneva, et d'autres fois,
+certains caractères sont remplaçés par de petits rectangles.
+R : Les polices très complexes posent parfois des problèmes, sur les
+machines à configurations réduites. Un des moyens de réduire ce problème
+consiste à utiliser Adobe Type Manager (ATM), pour améliorer l'affichage.
+
+Q : Sous Windows, certains caractères d'une police TrueType (TTF) ne
+s'impriment pas à toutes les tailles, ou n'apparaissent qu'à l'écran, ou
+l'inverse. Ceci se produit avec des polices complexes, comme les
+lettrines, ou polices d'images, par exemple.
+R : Ce phénomène n'est pas prévisible, mais se produit en général
+lorsqu'on utilise une imprimante matricielle ou jet d'encre, avec une
+configuration Windows un peu limitée. Mais cela arrive aussi parfais avec
+les imprimantes laser. Malgré nos efforts, c'est à peu près tout ce que
+nous avons pu obtenir de la part des créateurs de Windows. Il ne semble
+exister aucune configuration destinées à affecter plus de mémoire à
+l'imageur de polices, qui permettrait de palier la difficulté.  Ce type
+de polices n'étant pas utilisé trop fréquemment, à l'inverse du texte,
+par exemple, on peut souvent s'en tirern en transformant la police en 
+image. Voici une méthode simple, à partir des outils de Windows.
+-Créer un nouveau document Windows Paint.
+- Avec l'outil de Texte, entrer le message voulu.
+- Copier ou sauver l'image, et la coller ou charger dans votre traitement
+de textes, ou logiciel de PAO (Micro-édition).
+On peut utiliser d'autres outils graphiques, notamment Corel draw. Une
+autre solution consiste à utiliser la police ATM. Adobe Type Manager gère
+bien mieux les polices complexes, et permet souvent d'obtenir les 
+résultats escomptés, là où le gestionnaire TrueType intégéré à Windows ne 
+fonctionne pas toujours parfaitement.
+
+Q : J'ai essayé d'installer votre police TrueType, mais elle n'apparaît
+que comme une Geneva. Que se passe-t-il ?
+R : Vous êtes probablement en présence d'un conflit de numéros de fontes.
+Cela se produit parfois, lorsqu'une fonte portant le même numéro est déjà
+installée dans le système. Il est bon d'utiliser un utilitaire capable de
+gérer ce type de conflit. Vous pouvez utiliser le shareware FontMaster,
+ou Suitcase, ou encore Adobe Type Manager Deluxe.  Vous pouvez encore
+recourir à Font/Da Manager, qui même sous Système 7 et suivant, est
+encore utile, car il renumérote automatiquement les polices lors de
+l'installation.
+
+Q : Je ne trouve pas les caractères accentués, ni les ponctuations. Que
+se passe-t-il ?
+A : Les polices que nous fournissons pour évaluation gratuite ne
+comportent pas les ponctuations, non plus que les caractères "haut
+ASCII", dont font partie les caractères accentués. Pour bénéficier de ces
+caractères, il vous suffit d'acquérir la version enregistrée, pour un
+prix modique. Voir le document "Lisez-moi", dans cette même archive, ou
+la section "libre-essai" de notre site, à http://www.matchfonts.com/fr.
+
+Q : Mais quelle idée d'avoir choisi le même numéro que l'une de mes
+polices déjà installées ? Ne pourriez-vous pas vous assurer à l'avance
+d'éviter les conflits ?
+R : Ce phénomène malheureux, plus connu des utilisateurs de Macintosh,
+est facile à éviter avec des utilitaires (voir plus haut). Notre problème
+est du même ordre que le jeu de bataille navale. Il n'existe pas de
+registre central des numéros de polices, alors qu'il y a aujourd'hui des
+centaines de créateurs de polices commerciaux, sans compter d'autres
+centaines de créateurs de polices freeware, qui ne se préoccupent
+qu'extrêmement rarement de ne pas interférer avec d'autres fondeurs.
+Nous avons cependant pris grand soin d'éviter d'interférer avec les
+polices déjà installées dans le système, ou celles des grands fondeurs,
+comme Adobe, par exemple.  Si vous observiez un conflit avec une police 
+Apple, prévenez-nous, nous changerons immédiatement le numéro de notre 
+fonte.
+
+Q : Une police "plante" le système.
+R : Vérifiez que le fichier n'ait pas été endomagé. Une erreur disque, ou
+des manipulations risquées, comme mettre hors-circuit l'ordinateur sans
+l'éteindre, peuvent être en cause. Utilisez la version originale de la
+police, telle qu'elle est présente dans son archive, ou, au besoin,
+téléchargez-la directement depuis notre site http://www.matchfonts.com/fr
+, section  "libre-essai". Si le problème persiste, contactez-nous.
+
+Q : Depuis que j'ai installé vos polices sur mon Macintosh, Suitcase ne
+fonctionne plus. L'extension est là, mais elle n'est plus fonctionnelle.
+R : Ajouter de nouvelles polices ne peut endommager Suitcase. En
+revanche, un plantage système, ou débrancher le Mac sans l'éteindre, 
+peuvent endommager Suitcase. Réinstaller à partir du disque Suitcase, et 
+redémarrer. Cela devrait fonctionner. D'autres inits peuvent entrer en 
+conflit. Nous avons notamment observé un conflit avec un add-in 
+Photoshop, qui semble tirer dans Suitcase. Chaque fois qu'il est lançé, 
+cela endommage Suitcase. Au besoin, contactez l'éditeur sur son forum 
+Compuserve (GO FGS).
+
+Q : J'ai besoin d'une police, dans un langage encore non disponible.
+R : Si vous avez déjà les spécifications du langage, ou une
+représentation précise de ce dont vous avez besoin, contactez-nous. Dans
+bien des cas, si la documentatioon que vous nous fournissez est adéquate,
+nous vous remercierons en vous offrant gratuitement la police,
+lorsqu'elle sera terminée.
+
+Q : Je veux une fonte faite sur mesure, selon mes spécifications.
+R : Nous avons des prix très raisonnables pour la création de fontes à
+façon. Contactez-nous pour un devis, avec les détails de vos besoins. 
+Nous avons créé des polices de caractères spécifiques pour l'industrie 
+aéronautique, pour des fabricants d'électronique, pour des ateliers de 
+design, ainsi que pour des entreprises désireuses d'avoir leur propre 
+police.
+
+Q : Je veux avoir une police créée avec ma propre écriture.
+R : Contactez-nous pour obtenir la page d'échantillon d'écriture, et le
+bon de commande.
+
+Q : Comment obtenir une version imprimée de vos polices ?
+R : Demandez-nous, par courrier électronique à ventes@matchfonts.com , ou
+sur notre site, à http://www.matchfonts;com/fr , cliquer sur "boîte à
+suggestion".
+
+Q : Vous devez fournir un support téléphonique 24 h sur 24, pour chaque
+type d'ordinateur, et toutes les imprimantes. Si Adobe et Apple le font,
+vous devez aussi le faire.
+R : Nous sommes sincèrement désolés, avec la petitesse de notre
+entreprise, de n'être pas en mesure de lutter avec les grands, qui
+gagnent probablement plus d'argent en dix minutes, que nous en une année
+entière. Mais cela explique aussi pourquoi vous ne payez pas pour la
+publicité en double pages couleur, les équipes de support pléthoriques. 
+Nos prix sont bien plus bas. En outre, nous pouvons réparer le moindre 
+problème en un instant, et sommes à l'écoute de chacun de nos clients. ce 
+genre de rapport direct est depuis longtemps oublié chez les grands. 
+Faut-il citer des exemples ?
+
+En tout état de cause, souvenez-vous qu'une police n'est jamais que
+l'équivalent d'un autocollant sur une voiture, la voiture étant
+l'ordinateur, l'imprimante, et les logiciels d'applications. Nous vous
+serons reconnaissants de bien vouloir accepter que, si vous ne parvenez 
+pas à utiliser votre imprimante, par exemple, ou un logiciel de 
+vectorisation, ne nous demandez pas comment faire. demandez plutôt à la 
+maison qui vous a fourni le logiciel ou le matériel. De la même manière, 
+il ne viendrait à l'idée de personne de demander des leçons de conduite à 
+un fournisseur d'autocollants pour automobile...
+
+Nous faisons le maximum pour tester nos polices avec les configurations
+STANDARD, sur des imprimantes STANDARD, avec des logiciels STANDARD, les
+polices étant installées selon la procédure STANDARD. Si cependant vous
+aviez besoin de support, n'hésitez pas à utiliser le courrier
+électronique ou la télécopie. Nous ferons le maximum pour vous dépanner
+au plus vite. Pour des raisons évidentes de coût, nous sommes désolés de 
+ne pouvoir fournir de dépannage par téléphone.
+
+Q : Dans votre police martienne, vous avez plaçé un point au dessus du
+caractère glifette, et avez mis un accent au-dessus du bizargnon. C'est
+impardonnable. Je suis furieux, vous êtes aussi stupides qu'une bande de
+chiens lunaires ! Vous devriez être fouettés, et me rembourser, parce que
+j'ai souffert un dommage  intolérable à mon sens extrêmement sophistiqué 
+des convenances intellectuelles, et à ma gracieuse élégance innée.
+R : Nous sommes désolés de ne pas connaître le martien aussi bien qu'un
+distingué lettré comme votre Altesse. Nous vous supplions de ne pas nous 
+désintégrer, nous pauvres bougres de bergers à puces. S'il plaît à votre 
+Altesse, considérez que l'ignorance n'est pas un crime mais un état, vite 
+amélioré si l'on veut condescendre à partager son savoir avec petience et 
+ouverture d'esprit. Ayez pitié de l'ignorant. Si de quelque manière que 
+ce soit nous avons écorché votre langue natale, croyez bien que ce n'est 
+pas intentionnel, et que notre but est bien de satisfaire au mieux vos 
+besoins. Si vous vouliez bien nous fournir précisément les informations 
+requises, nous remédierons à nos bévues au plus vite. Tout ce que nous 
+savons, en tant qu'insignifiants artisans, c'est comment faire de polices 
+de caractères. Ce n'est vraiment pas notre faute si les subtilités d'une 
+langue étrangère nous échappent parfois, et ne nous frappent pas avec la 
+clarté du Saint-Esprit sur la tête d'un saint. Cepend nt, nous nous 
+prosternons devant le plus éduqué. Merci pour votre bonté qui nous aide à 
+progresser. Aujourd'hui, nos polices étrangères ont été soigneusement 
+examinées et polies, grâce à l'aide de nos clients. Certains nous ont 
+déjà bien aider à créer de bien belles polices. Mais nous apprécierons 
+toute chance de nous améliorer !
+
+Q : Quand j'utilise trop de polices, mon imprimante "plante".
+R : Essayez de régler les options d'impression (mise en page), avec
+"Imprimer TrueType comme graphiques" dans Windows. Dans Macintosh, régler
+dans les options d'impression  "Nombre de polices téléchargeables
+illimitées".
+
+Q : Pourquoi demandez-vous de l'argent pour vos polices ? Elles devraient
+être gratuites !
+R : Il existe une étrange notion sur l'Internet. Tout devrait y être
+gratuit. Pourtant, il ne viendrait à l'idée de personne d'aller au cinéma
+gratuitement, ou d'entrer dans une librairie, et de réclamer un livre 
+pour rien. Pour les programems et les polices, cependant, il semble que 
+ce soit différent. Un nombre considérable d'utilisateurs pirate sans 
+vergogne les programmes, à telle enseigne qu'on en vient, par un vicieux 
+détour de l'esprit, à considérer les malheureux qui demandent juste 
+rémunération de leurs efforts de création comme les voleurs !  Quelques 
+illuminés, même, notamment des universitaires proches du projet GNU, 
+vopnt même jusqu'à réclamer la gratuité de tous les logiciels. Le plus 
+curieux étant que les mêms donneurs de leçons insistent quant à eux, à 
+être rémunérés, lorsqu'ils donnent une conférence, publient un bouquin, 
+ou écrivent un article. Et poussent des cris d'orfraie lorsqu'on 
+photocopie leur supports de cours...  Match Software est une petite 
+entreprise, qui dépend de la distribution de ses polices, principalement 
+en ligne. Chacun peut évaluer gratuitement nos polices, de la même 
+manière qu'on peut chez certains libraires prendre tout son temps pour 
+entamer un livre, avant de décider de l'acheter.  N'empêche, il faut bien 
+payer pour la location de notre site, pour l'électricité qui nourrit nos 
+ordinateurs, et les quelques sandwiches qui nous soutiennent. Nous 
+remercions sincèrement les clients qui nous aident à payer les factures, 
+tout en continuant à créer toujours de nouvelles polices. S'il vous 
+plait, continuez à supporter les éditeurs de logiciels indépendants. Ces 
+derniers sont autant les garants de la liberté intellectuelle et 
+créatrice, que les petites éditeurs de livres ou de disques. Sans eux, 
+les grosses sociétés feraient ce qu'elles veulent, financièrement et 
+culturellement. Il n'est que de voir ce qui arrive déjà avec le Big 
+Brother de l'informatique (nous ne citerons pas). Personne ne voudrait 
+que cela arrive !
+
+Match Software
+8205 Santa Monica Blvd.
+Suite 1-205
+West Hollywood, CA 90046-5912
+Etats Unis
+
+(213) 656-4244
+email : ventes@matchfonts.com
+http://www.matchfonts.com/fr
+
+_________________________________________________________________________
+"Match Software", ou "Bujardet Frères", sont la propriété intellectuelle,
+et copyright de Match Software. Toutes autres propriétés intellectuelles 
+citées dans nos documentations, appartiennent à leurs détenteurs 
+respectifs.
